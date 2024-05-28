@@ -1,4 +1,4 @@
-# Golang Interview Case Scenario
+# Golang S3 Processing Microservice
 
 ## Overview
 You are tasked with developing two applications: a job and a microservice as product_service. The job's responsibility is to fetch several JSON Lines (jsonl) files from AWS S3, process them, and write the data to a database. On the other hand, the microservice should provide one endpoint which gets a record by id.
